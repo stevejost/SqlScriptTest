@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlScripterTest", "ConsoleApplication7\SqlScripterTest.csproj", "{6019CCA9-CB9C-4F56-BAF6-7877E82ADAE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlScripterTest", "SqlScripterTest\SqlScripterTest.csproj", "{6019CCA9-CB9C-4F56-BAF6-7877E82ADAE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
